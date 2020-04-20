@@ -1,0 +1,29 @@
+                                                                    precision    recall  f1-score   support
+
+                        Warts Molluscum and other Viral Infections       0.95      0.91      0.93       840
+                                  Herpes HPV and other STDs Photos       0.94      0.88      0.91      1149
+                                Nail Fungus and other Nail Disease       0.86      0.89      0.88       489
+                        Lupus and other Connective Tissue diseases       0.92      0.88      0.90       448
+                      Light Diseases and Disorders of Pigmentation       0.93      0.84      0.88       288
+             Psoriasis pictures Lichen Planus and related diseases       0.90      0.94      0.92      1235
+                                          Atopic Dermatitis Photos       0.94      0.75      0.83       404
+                                                 Vasculitis Photos       0.76      0.86      0.81       239
+                                                   Urticaria Hives       0.82      0.78      0.80       405
+            Tinea Ringworm Candidiasis and other Fungal Infections       0.83      0.90      0.87       568
+                      Seborrheic Keratoses and other Benign Tumors       0.93      0.84      0.88       420
+                 Hair Loss Photos Alopecia and other Hair Diseases       0.83      0.96      0.89       463
+                Cellulitis Impetigo and other Bacterial Infections       0.89      0.91      0.90      1040
+                               Melanoma Skin Cancer Nevi and Moles       0.97      0.77      0.86       260
+                                           Acne and Rosacea Photos       0.90      0.86      0.88      1405
+                                                  Systemic Disease       0.81      0.97      0.88       431
+                                      Exanthems and Drug Eruptions       0.95      0.84      0.89      1371
+Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions       0.82      0.94      0.88       606
+                                            Bullous Disease Photos       0.95      0.91      0.93      1300
+                                                   Vascular Tumors       0.79      0.97      0.87       212
+                    Poison Ivy Photos and other Contact Dermatitis       0.96      0.86      0.91       482
+             Scabies Lyme Disease and other Infestations and Bites       0.67      0.95      0.79       416
+                                                     Eczema Photos       0.86      0.90      0.88      1086
+
+                                                          accuracy                           0.89     15557
+                                                         macro avg       0.88      0.88      0.88     15557
+                                                      weighted avg       0.89      0.89      0.89     15557
